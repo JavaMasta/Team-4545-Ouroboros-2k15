@@ -17,7 +17,7 @@ public class RookieChallenge {
     @Override
     public void loop(){
         //tank controls for gamepad 1. When you hold the right trigger, it cuts the speed to 20%.
-
+    leftDrive.setPower( 
         //Manipulator for gamepad 2. Pick a stick to be up and down and use the triggers for the action.
 
     }
