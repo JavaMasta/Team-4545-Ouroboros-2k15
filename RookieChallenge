@@ -1,5 +1,5 @@
 package com.qualcomm.ftcrobotcontroller.opmodes;
-
+DcMotor leftDrive, rightDrive;
 /**
  * Created by Vandegrift InvenTeam on 8/31/2015.
  */
